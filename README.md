@@ -55,3 +55,7 @@ Upload the image and audio file beside `index.html`. Do not create an `assets` f
 ## Added interactions
 - Animated envelope and tap gesture on the opening screen.
 - Scratch-to-reveal cards for the wedding and reception dates. Works with mouse, touch, or stylus.
+
+
+## WhatsApp link preview
+The page includes Open Graph and Twitter Card metadata pointing to `theme.jpg` in the repository root. Keep the image filename and root path unchanged when publishing. WhatsApp may cache old previews; test with a fresh URL or wait for its cache to refresh. Tapping a WhatsApp link preview opens the shared website URL by platform design; to open the full-size image directly, share this separate image URL: `https://dk4299413-alt.github.io/Wedding-Invitation-/theme.jpg`.
